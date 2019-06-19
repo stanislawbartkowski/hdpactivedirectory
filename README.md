@@ -9,8 +9,7 @@ https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/con
 * CentOS 7.6
 # Prerequisities
 HDP Kerberizarion is conducted already.
-https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-and-Active-Directory
-
+https://github.com/stanislawbartkowski/wikis/wiki/HDP-2.6.5-3.1-and-Active-Directory
 
 
 
