@@ -1,6 +1,9 @@
 # Enable HDP/IBM BigSQL for Active Directory
 This repository contains a number of practical steps to enable HDP services for Active Directory security. It is a follow-up after basic Kerberization.<br>
 https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/configuring_amb_hdp_for_kerberos.html<br>
+<br>
+HDP 3.1<br>
+https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.1.0/configuring-proxy-knox/content/setting_up_ldap_authentication.html
 
 **Wiki** : https://github.com/stanislawbartkowski/hdpactivedirectory/wiki
 # Test environment description
