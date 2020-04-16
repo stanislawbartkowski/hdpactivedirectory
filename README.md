@@ -19,6 +19,7 @@ In AD prepare *datascience* and *dataadmin* and create *user2* in *dataadmin* an
 * *User3* is a member of *datascience* group and can access and read data in *datalake* but cannot modify anything. 
 * *User1* does not belong to any groups, thus should be denied any access try.
 <br>
+
 | User | Group | Description |
 | -- | -- | -- |
 | user1 | (no group) | malicious user
