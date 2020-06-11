@@ -24,7 +24,7 @@ In AD prepare *datascience* and *dataadmin* and create *user2* in *dataadmin* an
 | -- | -- | -- |
 | user1 | (no group) | malicious user
 | user2 | dataadmin | full access
-| user3 | datascience | read-only acess
+| user3 | datascience | read-only access
 
 
 
