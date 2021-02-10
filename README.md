@@ -8,7 +8,7 @@ All specific descriptions are included in Wiki.<br>
 **Wiki** : https://github.com/stanislawbartkowski/hdpactivedirectory/wiki
 
 # Test environment description
-After Kerberization, good practice is run simple test to make sure that security takes effect. To run tests, make additional settings in AD or KDC/LDAP environment.
+After Kerberization, good practice is running simple tests to make sure that security takes effect. To run tests, make additional settings in AD or KDC/LDAP environment.
 
 * Windows 2016 Active Directory
 * HDP 2.6.5, HDP 3.1
