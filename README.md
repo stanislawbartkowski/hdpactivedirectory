@@ -11,7 +11,7 @@ All specific descriptions are included in Wiki.<br>
 | --- | --- | --- |
 | HDP |How to integrate Ambari Console with AD/LDAP | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ambari-console-and-AD-LDAP
 | HDP |  Atlas - AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Atlas
-| HDP, CDP | BigSQL AD authentication | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL
+| HDP CDP | BigSQL AD authentication | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL
 | HDP | BigSQL/Ranger integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL-and-Ranger
 
 
