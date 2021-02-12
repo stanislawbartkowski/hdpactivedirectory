@@ -14,7 +14,7 @@ All specific descriptions are included in Wiki.<br>
 | HDP CDP | BigSQL AD authentication | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL
 | HDP | BigSQL/Ranger integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL-and-Ranger
 | CDP | Ranger AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Cloudera,-Ranger,-Active-Directory,-usersync
-| HDP | Ranger - HBAse integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
+| HDP | Ranger - HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
 
 # Test environment description
 After Kerberization, good practice is running simple tests to make sure that security takes effect. To run tests, make additional settings in AD or KDC/LDAP environment.
