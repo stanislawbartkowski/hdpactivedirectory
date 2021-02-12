@@ -5,12 +5,15 @@ https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/con
 
 All specific descriptions are included in Wiki.<br>
 
-| Info | URL
-| --- | --- |
-| How to integrate Ambari Console with AD/LDAP | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ambari-console-and-AD-LDAP
-| HDP,  Atlas - AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Atlas
-
 **Wiki** : https://github.com/stanislawbartkowski/hdpactivedirectory/wiki
+
+| System | Info | URL
+| --- | --- | --- |
+| HDP |How to integrate Ambari Console with AD/LDAP | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ambari-console-and-AD-LDAP
+| HDP |  Atlas - AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Atlas
+| HDP, CDP | BigSQL AD authentication | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL
+| HDP | BigSQL/Ranger integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/BigSQL-and-Ranger
+
 
 # Test environment description
 After Kerberization, good practice is running simple tests to make sure that security takes effect. To run tests, make additional settings in AD or KDC/LDAP environment.
