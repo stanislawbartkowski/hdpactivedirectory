@@ -5,6 +5,11 @@ https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/con
 
 All specific descriptions are included in Wiki.<br>
 
+| Info | URL
+| --- | --- |
+| How to integrate Ambari Console with AD/LDAP | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ambari-console-and-AD-LDAP
+| HDP,  Atlas - AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Atlas
+
 **Wiki** : https://github.com/stanislawbartkowski/hdpactivedirectory/wiki
 
 # Test environment description
