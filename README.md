@@ -17,6 +17,7 @@ All specific descriptions are included in Wiki.<br>
 | HDP | Ranger - HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
 | HDP CDP | Ranger HDFS integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ranger-HDFS-plugin
 | HDP CDP | Ranger and HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
+| HDP | Ranger and Hive integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Hive,-Ranger
 
 # Test environment description
 After Kerberization, good practice is running simple tests to make sure that security takes effect. To run tests, make additional settings in AD or KDC/LDAP environment.
