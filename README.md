@@ -16,7 +16,7 @@ All specific descriptions are included in Wiki.<br>
 | CDP | Ranger AD/LDAP integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Cloudera,-Ranger,-Active-Directory,-usersync
 | HDP | Ranger - HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
 | HDP CDP | Ranger HDFS integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Ranger-HDFS-plugin
-| HDP CDP | Ranger and HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase,-Ranger
+| HDP CDP | Ranger and HBase integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/HBase-Ranger
 | HDP | Ranger and Hive integration | https://github.com/stanislawbartkowski/hdpactivedirectory/wiki/Hive-Ranger
 
 
